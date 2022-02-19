@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="second_post_api">
+      <class name="third_post_api">
         <methods>
           <include name="getapiresponse"/>
         </methods>
-      </class> <!-- second_post_api -->
+      </class> <!-- third_post_api -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
